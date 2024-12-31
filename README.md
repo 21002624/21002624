@@ -25,15 +25,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode&perline=5" /><br>
   <img src="https://skillicons.dev/icons?i=eclipse,arduino,git,github,windows,kali&perline=6" /><br>
 </p><br><br>
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk2Kumar&theme=radical" alt="Kanishk's Github Stats" />
-  </p> 
-   <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Kanishk2Kumar&count_private=true&theme=radical"/>
-</p>
   
-
 <p align="center" style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
   <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20views&color=0e75b6&style=flat" alt="21002624" />
 </p>
