@@ -5,18 +5,18 @@
 </h1>
 
 - I am Kanishk 
-- 🧑‍🎓 A Second Year Undergrad, Programmer, Developer!!
-- 💻 Currently learning Node and Express JS..
-- 🚹 Pronouns: He/Him
-- 🟩 Fun fact: I come here for the green squares
+- 🧑‍🎓 A Final Year Undergrad, Programmer, Developer!!
+- 💻 Currently learning MERN Stack
+- 👨‍💻 All of my projects are available at [https://im-akash.netlify.app/](https://im-akash.netlify.app/)
+- 📫 How to reach me **akasharul2407@gmail.com**
 
   ### You can reach me at 
 <p align="center">
-<a href="https://www.linkedin.com/in/kanishk-kumar-95349127b/">
+<a href="[https://www.linkedin.com/in/kanishk-kumar-95349127b/](https://www.linkedin.com/in/im-akasharul/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="https://www.instagram.com/kanishk_1604/">
+<a href="[https://www.instagram.com/kanishk_1604/](https://www.instagram.com/akzhxx_/)">
 <img src="https://skillicons.dev/icons?i=instagram" />
-<a href="kanishkkumar127@gmail.com">
+<a href="akasharul2407@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </p>
 <br>
@@ -34,8 +34,5 @@
 </p>
   
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Kanishk2Kumar/count.svg" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20views&color=0e75b6&style=flat" alt="21002624" /> </p>
  <div align="center">
