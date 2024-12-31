@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://im-akash.netlify.app/](https://im-akash.netlify.app/)
 - 📫 How to reach me **akasharul2407@gmail.com**
 
-  ### You can reach me at 
+### You can reach me at 
 <p align="center">
 <a href="[https://www.linkedin.com/in/kanishk-kumar-95349127b/](https://www.linkedin.com/in/im-akasharul/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -34,5 +34,7 @@
 </p>
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20views&color=0e75b6&style=flat" alt="21002624" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
  <div align="center">
