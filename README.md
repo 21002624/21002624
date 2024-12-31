@@ -34,7 +34,7 @@
 </p>
   
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+<p align="center" style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
+  <img src="https://komarev.com/ghpvc/?username=21002624&label=Profile%20views&color=0e75b6&style=flat" alt="21002624" />
+</p>
  <div align="center">
