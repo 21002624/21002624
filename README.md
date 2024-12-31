@@ -22,8 +22,8 @@
 <br>
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,vscode&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,windows,kali&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,react&perline=5" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,windows,kali&vscode=6" /><br>
 </p><br><br>
   
 <p align="center" style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
