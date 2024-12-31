@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-- I am Kanishk 
+- I am Akash Arul
 - 🧑‍🎓 A Final Year Undergrad, Programmer, Developer!!
 - 💻 Currently learning MERN Stack
 - 👨‍💻 All of my projects are available at [https://im-akash.netlify.app/](https://im-akash.netlify.app/)
